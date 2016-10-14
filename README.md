@@ -1,4 +1,4 @@
-Play: [![Compilation Status](https://travis-ci.org/EvaluationPS/Portail-Auto-Eval.svg?branch=master)](https://travis-ci.org/shiroverlord/Portail-Auto-Eval)
+Play: [![Compilation Status](https://travis-ci.org/EvaluationPS/Portail-Auto-Eval.svg?branch=master)](https://travis-ci.org/EvaluationPS/Portail-Auto-Eval)
 
 
 This is a seed Play application with :
