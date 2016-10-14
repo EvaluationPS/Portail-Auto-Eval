@@ -1,1 +1,1 @@
-web: build/stage/playBinary/bin/playBinary
+web: build/stage/playBinary/bin/playBinary -Dhttp.port=${PORT}
